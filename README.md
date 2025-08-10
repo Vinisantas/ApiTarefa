@@ -67,19 +67,4 @@ http://localhost:8080/tarefas
 📝 Licença
 Este projeto está licenciado sob a licença MIT.
 
----
 
-📌 **Passo pra adicionar no seu projeto e mandar pro GitHub agora:**
-1. Dentro da pasta `api-tarefas`, crie o arquivo:
-   ```powershell
-   New-Item README.md
-Cole o conteúdo acima no arquivo e salve.
-
-No terminal:
-
-powershell
-Copiar
-Editar
-git add README.md
-git commit -m "Adiciona README.md"
-git push
